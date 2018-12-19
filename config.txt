@@ -1,6 +1,5 @@
-﻿token=NTIwMzgwNzI2MDk3NDc3NjMz.DutB4A.BN_zFtm-c6FzxoewGStNzKoYrYI
-owner=502748478267719681
-prefix=5
-game=Chanel.Play | 5
+token=NTAyMTg1NTI0NTIyNjQ3NTYz.Dvxr1A.rwKQ0rb_F5phqXdPJwKFaeCNjx8
+owner=390866409195831296
+prefix=A
 stayinchannel=true
 songinstatus=false
